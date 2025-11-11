@@ -27,15 +27,15 @@ https://hh.ru/
   - [Задача на REST API: Создание заявки на отказ от прохождения курса](https://github.com/AntoninaAO/Antonina-Ohtina/blob/main/%5BAO%5D%20REST%20API_2.pdf)
  
 - 🗄 **База данных и SQL**
-  - [ER-диаграмма БД платформы U-verse]
+  - [ER-диаграмма БД платформы U-verse](https://github.com/AntoninaAO/Antonina-Ohtina/wiki/%5BAO%5D-DB-U%E2%80%90Verse)
   - [БД: задача на создание таблицы refund (заявка на возврат)](https://github.com/AntoninaAO/Antonina-Ohtina/blob/main/%5BAO%5D%20DB_1.pdf)
   
 - 📊 **Схемы и диаграммы**
   - Бизнес-процесс: Запись Студента на курс:
-    - [описание бизнес-процесса](https://github.com/AntoninaAO/Antonina-Ohtina/blob/main/%5BAO%5D%20BP_1.pdf)
+    - [Описание бизнес-процесса](https://github.com/AntoninaAO/Antonina-Ohtina/blob/main/%5BAO%5D%20BP_1.pdf)
     - [BPMN-диаграмма](https://github.com/AntoninaAO/Antonina-Ohtina/blob/main/%5BAO%5D%20BPMN_1.png)
   - Бизнес-процесс: Подача заявки на отказ от прохождения курса:
-    - [описание бизнес-процесса](https://github.com/AntoninaAO/Antonina-Ohtina/blob/main/%5BAO%5D%20BP_2.pdf)
+    - [Описание бизнес-процесса](https://github.com/AntoninaAO/Antonina-Ohtina/blob/main/%5BAO%5D%20BP_2.pdf)
     - [BPMN-диаграмма](https://github.com/AntoninaAO/Antonina-Ohtina/blob/main/%5BAO%20%5DBPMN_2.png)
   - [UML‐Sequence диаграмма: Согласование заявки на отказ от прохождения курса](https://github.com/AntoninaAO/Antonina-Ohtina/wiki/%5BAO%5D-UML%E2%80%90Sequence_1)
   - [UML-Activity диаграмма: Согласование заявки на отказ от прохождение курса](https://github.com/AntoninaAO/Antonina-Ohtina/wiki/%5BAO%5D-UML%E2%80%90Activity_1)  
