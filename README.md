@@ -23,7 +23,7 @@ https://hh.ru/
  
 - 🔗 **Интеграции и API**
   - [Postman Workspace (тестирование API)](https://www.postman.com/gold-sunset-382290/ao-u-verse-api/overview)
-  - [Postman-документация проекта U-Verse]()
+  - [Postman-документация проекта U-Verse](https://documenter.getpostman.com/view/41761460/2sB3WttzBe)
   - [Задача на REST API: Получение информации о заказе на курс](https://github.com/AntoninaAO/Antonina-Ohtina/blob/main/%5BAO%5D%20REST%20API_1.pdf)
   - [Задача на REST API: Создание заявки на отказ от прохождения курса](https://github.com/AntoninaAO/Antonina-Ohtina/blob/main/%5BAO%5D%20REST%20API_2.pdf)
  
