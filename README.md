@@ -22,7 +22,8 @@ https://hh.ru/
   - [Задача на Frontend: Экран подачи заявки на отказ от прохождения курса](https://github.com/AntoninaAO/Antonina-Ohtina/blob/main/%5BAO%5D%20Frontend_1.pdf)
  
 - 🔗 **Интеграции и API**
-  - [Postman Workspace](https://www.postman.com/gold-sunset-382290/ao-u-verse-api/overview)
+  - [Postman Workspace (тестирование API)](https://www.postman.com/gold-sunset-382290/ao-u-verse-api/overview)
+  - [Postman-документация проекта U-Verse]()
   - [Задача на REST API: Получение информации о заказе на курс](https://github.com/AntoninaAO/Antonina-Ohtina/blob/main/%5BAO%5D%20REST%20API_1.pdf)
   - [Задача на REST API: Создание заявки на отказ от прохождения курса](https://github.com/AntoninaAO/Antonina-Ohtina/blob/main/%5BAO%5D%20REST%20API_2.pdf)
  
